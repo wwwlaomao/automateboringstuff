@@ -20,3 +20,6 @@ It is recommended to use virtual environment to manage the project. The followin
     ```bash
     deactivate
     ```
+## Coding Style
+
+PEP8 <https://www.python.org/dev/peps/pep-0008/> is adopted but not strictly enforced. So there are some styles not following PEP8.
